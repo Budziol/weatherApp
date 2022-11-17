@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/weatherApp/static/js/main.6b1cff43.js",
+    "static/media/Inter-Thin.ttf": "/weatherApp/static/media/Inter-Thin.f341ca512063c66296d1.ttf",
+    "static/media/Inter-Light.ttf": "/weatherApp/static/media/Inter-Light.eec8664621fec98efb37.ttf",
+    "static/media/Inter-Regular.ttf": "/weatherApp/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "index.html": "/weatherApp/index.html",
+    "main.6b1cff43.js.map": "/weatherApp/static/js/main.6b1cff43.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6b1cff43.js"
+  ]
+}
